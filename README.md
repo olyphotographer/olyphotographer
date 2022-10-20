@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olyphotographer
-- 👀 I’m interested in React, node, JS, TypeScript, VueJs, mongodb
-- 🌱 I’m currently learning next.js
+- 👀 I’m interested in Flutter, Laravel, React, node, JS, TypeScript, VueJs, mongodb
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
