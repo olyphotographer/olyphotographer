@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olyphotographer
-- 👀 I’m interested in Flutter, Laravel, React, node, JS, TypeScript, VueJs, mongodb
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in SwiftUI, Swift, IOS Development, node, JS, TypeScript, PostGreSQL
+- 🌱 I’m currently developing some IOS Apps for the personal use
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
